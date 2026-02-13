@@ -35,5 +35,3 @@ Make sure you have the following installed:
    - If incorrect, access is denied.
 
 ---
-
-## 📂 File Structure
